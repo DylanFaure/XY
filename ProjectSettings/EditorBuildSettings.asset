@@ -10,7 +10,13 @@ EditorBuildSettings:
     guid: 0415d99b5238e401ab942ee01bbf4e31
   - enabled: 1
     path: Assets/Scenes/Room02 (Sean).unity
-    guid: 8e8e77e37d72e56429c8b56d299a2512
+    guid: b074af4861f964afbbeb4c4de9293cc8
+  - enabled: 1
+    path: Assets/Scenes/Room03.unity
+    guid: eb35231335e2d47f5b1326e04c557635
+  - enabled: 1
+    path: Assets/Scenes/RoomWin.unity
+    guid: 841dd339ef695f34ab9aafcfb749cec1
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}
