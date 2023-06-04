@@ -16,7 +16,7 @@ public class Password : MonoBehaviour
     {
         switch (inputTextField.text)
         {   
-            case "82416":
+            case "98752":
             //    SceneManager.LoadScene("");
                 break;
             
